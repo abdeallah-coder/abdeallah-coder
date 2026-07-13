@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Abdallah 👋
 
-<!--
-**abdeallah-coder/abdeallah-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineering student at ENSIA (Higher National School of Artificial Intelligence, Algeria) with a strong interest in computer science, software engineering, and artificial intelligence.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C++
+* Object-Oriented Programming
+* Python
+* Git & GitHub
+* Linux
+* Data Structures & Algorithms
+
+## 🎯 Interests
+
+* Artificial Intelligence
+* Systems Programming
+* Cybersecurity
+* Operating Systems
+* Computer Architecture
+
+## 📚 Goals
+
+I'm focused on building a strong foundation in computer science while creating projects that improve my programming and problem-solving skills.
+
+## 🛠️ Technologies
+
+* C++
+* Python
+* Git
+* GitHub
+* Linux
+* Bash
+
+## 📈 Current Focus
+
+* Improving my C++ and software engineering skills.
+* Building personal projects.
+* Learning modern development tools and best practices.
+
+---
+
+> "Always learning. Always building."
